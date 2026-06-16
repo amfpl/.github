@@ -1,12 +1,14 @@
-## Hi there 👋
+# About Am (AmFPL)
+**Am** is a high-level, statically typed programming language. Am's origins date back to June 11, 2026, when iamtowvee decided to create his own programming language.
 
-<!--
+> [!NOTE]
+> **Am** is a high-level, statically typed programming language
 
-**Here are some ideas to get you started:**
+# Repositories
+- [**Compiler**](https://github.com/amfpl/am)
+- [**VS Code extension**](https://github.com/amfpl/am-vsce)
+- [**Notepad++ extension**](https://github.com/amfpl/am-nppe)
+- [**Docs**](https://github.com/amfpl/am-docs)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# License
+Distributed under the Apache-2.0 license.
